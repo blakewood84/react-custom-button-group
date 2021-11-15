@@ -4,5 +4,5 @@ A simple button group, takes in an array of items, output is a clickable group t
 
 Example
 
-!(Screen Recoding )[/public/images/recording.gif]
+![Screen Recording](/public/images/recording.gif)
 
