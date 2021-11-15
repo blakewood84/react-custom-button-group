@@ -2,7 +2,9 @@
 
 A simple button group, takes in an array of items, output is a clickable group that display's which is active. Can be modified to include user routes. The onClick is handled by the ButtonGroups handleOnClick function.
 
-Example
+To run this project: `yarn` and then `yarn start`
+
+### Example
 
 ![Screen Recording](/public/images/recording1.gif)
 
